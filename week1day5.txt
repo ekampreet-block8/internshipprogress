@@ -1,2 +1,2 @@
-Gave ppt on git and github.
+Gave ppt on git and github at 12:30 pm
 Done js basics.
