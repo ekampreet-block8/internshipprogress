@@ -1,0 +1,2 @@
+Gave ppt on git and github.
+Done js basics.
