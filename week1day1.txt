@@ -1,0 +1,2 @@
+react todo app frontend.
+Also written it down on notebook.
