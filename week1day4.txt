@@ -1,1 +1,9 @@
 learnt about github for presentation.
+
+https://hackernoon.com/understanding-git-fcffd87c15a3
+https://hackernoon.com/understanding-git-2-81feb12b8b26
+
+https://hackernoon.com/a-gentle-introduction-to-git-and-github-the-eli5-way-43f0aa64f2e4
+
+git cheatsheet
+git book
