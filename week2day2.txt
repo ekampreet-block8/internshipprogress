@@ -1,1 +1,2 @@
 Reading about and going to make presentation regarding how software testing lifecycle is integrated in different software development methodologies.
+Created ppt on above topic
