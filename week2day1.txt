@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=NjN00cM18Z4
+Typescript Crash Course
+
+Had a session on Introduction to Software Testing.
+Had a session on Manual Software Testing.
+Typescript Training Session.
+
+Relationship btw software development methodologies and software testing lifecycle
