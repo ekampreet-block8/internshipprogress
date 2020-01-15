@@ -1,2 +1,13 @@
 Reading about and going to make presentation regarding how software testing lifecycle is integrated in different software development methodologies.
 Created ppt on above topic and saved in presentations repo
+Took an overview of react documentation
+Looked at the interface of regex101.com
+
+https://hackernoon.com/episode-49-refreshing-on-react-part-1-c911f9d0c508
+https://hackernoon.com/episode-50-refreshing-react-part-2-532864746e0c
+
+presentation by akshay on node js architecture
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+Code evolution course on react
