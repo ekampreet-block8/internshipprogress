@@ -33,7 +33,7 @@ Date  : 16/01/2020
 16:45-17:00  --------------
 17:00-17:15  (upto video 29)
 17:15-17:30  https://programmingwithmosh.com/javascript/react-lifecycle-methods/
-17:30-17:45  
+17:30-17:45  Search
 17:45-18:00  
 18:00-18:15  
 18:15-18:30  
