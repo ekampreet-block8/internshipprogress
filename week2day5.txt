@@ -5,7 +5,7 @@ Date  : 17/01/2020
 09:45-10:00  
 10:00-10:15  
 10:15-10:30  standup
-10:30-10:45  https://www.youtube.com/watch?v=Ke90Tje7VS0 mosh react course start
+10:30-10:45  https://medium.com/@ankitsharmasap/crash-course-on-blockchain-for-noobs-62e768208a42
 10:45-11:00  
 11:00-11:15  
 11:15-11:30  
