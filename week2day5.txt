@@ -23,7 +23,7 @@ Date  : 17/01/2020
 14:15-14:30  ------
 14:30-14:45  https://medium.com/javascript-in-plain-english/please-stop-using-classes-in-javascript-and-become-a-better-developer-a185c9fbede1
 14:45-15:00  back with https://medium.com/@ankitsharmasap/crash-course-on-blockchain-for-noobs-62e768208a42
-15:00-15:15  
+15:00-15:15  --------done
 15:15-15:30  
 15:30-15:45  
 15:45-16:00  
