@@ -8,7 +8,7 @@ Date  : 20/01/2020
 10:30-10:45  https://spin.atomicobject.com/2016/02/16/how-javascript-promises-work/
 10:45-11:00  https://spin.atomicobject.com/2016/02/17/javascript-promise-mistakes/
 11:00-11:15  https://spin.atomicobject.com/2016/02/18/future-javascript-promises/
-11:15-11:30  
+11:15-11:30  https://www.geeksforgeeks.org/javascript-promises/
 11:30-11:45  
 11:45-12:00  
 12:00-12:15  
