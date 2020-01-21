@@ -9,7 +9,7 @@ Date  : 21/01/2020
 10:45-11:00  Standup
 11:00-11:15  https://scotch.io/starters/react/getting-started-with-react-2019-edition?utm_content=in-content
 11:15-11:30  ------
-11:30-11:45  
+11:30-11:45  https://scotch.io/bar-talk/get-to-know-bulma-my-current-favorite-css-framework
 11:45-12:00  
 12:00-12:15  
 12:15-12:30  
