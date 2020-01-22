@@ -7,12 +7,12 @@ Date  : 22/01/2020
 10:15-10:30  Design Mockup for blog
 10:30-10:45  ------
 10:45-11:00  Standup
-11:00-11:15  
-11:15-11:30  
-11:30-11:45  
-11:45-12:00  
-12:00-12:15  
-12:15-12:30  
+11:00-11:15  https://medium.com/@jdc91xt/the-redux-crash-course-7759b09500fa
+11:15-11:30  and https://www.youtube.com/watch?list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v&time_continue=621&v=nYkdrAPrdcw
+11:30-11:45  https://dev.to/chrisachard/redux-crash-course-with-hooks-a54
+11:45-12:00  and
+12:00-12:15  https://www.youtube.com/watch?v=oD3miHerQbY
+12:15-12:30  ------
 12:30-12:45  
 12:45-13:00  
 13:00-13:15  
