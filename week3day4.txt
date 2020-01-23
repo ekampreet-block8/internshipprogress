@@ -23,13 +23,13 @@ Date  : 23/01/2020
 14:15-14:30  https://blog.cloudboost.io/everything-you-need-to-know-about-mongoose-63fcf8564d52
 14:30-14:45  
 14:45-15:00  ------
-15:00-15:15  
-15:15-15:30  
-15:30-15:45  
+15:00-15:15  Forked gists from brad traversy and looked what is available there.
+15:15-15:30  Devops Overview
+15:30-15:45  Presentation on Devops by Abhijeet
 15:45-16:00  
 16:00-16:15  
 16:15-16:30  
-16:30-16:45  
+16:30-16:45  https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE (LEARN THE MERN STACK)(To be Started!)
 16:45-17:00  
 17:00-17:15  
 17:15-17:30  
