@@ -3,36 +3,36 @@ Date  : 28/01/2020
 
 09:30-09:45  
 09:45-10:00  
-10:00-10:15  
-10:15-10:30 Standup 
-10:30-10:45  
-10:45-11:00  
-11:00-11:15  
-11:15-11:30  
-11:30-11:45  
-11:45-12:00  
-12:00-12:15  
+10:00-10:15  https://www.youtube.com/watch?v=pBBEh8C1oJ8&list=PLS5SEs8ZftgVw9o0cG3onyHmWIzI02T7S&index=4
+10:15-10:30  https://www.youtube.com/playlist?list=PLS5SEs8ZftgVw9o0cG3onyHmWIzI02T7S
+10:30-10:45  https://www.youtube.com/watch?v=MtemtZ-F3WI&list=PLS5SEs8ZftgVw9o0cG3onyHmWIzI02T7S&index=2&t=0s
+10:45-11:00  Standup
+11:00-11:15  https://decenter.org/en/what-are-gas-gas-limit-and-gas-price-in-the-ethereum-network
+11:15-11:30  https://www.youtube.com/watch?v=oCWHV9naDkk&list=PLS5SEs8ZftgVw9o0cG3onyHmWIzI02T7S&index=36
+11:30-11:45  https://www.youtube.com/watch?v=k4WN3lCAC6U&list=PLS5SEs8ZftgVw9o0cG3onyHmWIzI02T7S&index=7
+11:45-12:00  https://www.youtube.com/watch?v=8UKKMyqYOcM&list=PLS5SEs8ZftgVw9o0cG3onyHmWIzI02T7S&index=35
+12:00-12:15  https://www.youtube.com/watch?v=rzvk2kdjr2I&list=PLS5SEs8ZftgUiassxtqEpLb0jRJsKYvJL&index=2&t=1029s Etherium Todo
 12:15-12:30  
 12:30-12:45  
 12:45-13:00  
 13:00-13:15  
 13:15-13:30  
-13:30-13:45  
-13:45-14:00  
+13:30-13:45  --------
+13:45-14:00  Lunch
 14:00-14:15  
 14:15-14:30  
-14:30-14:45  
-14:45-15:00  
-15:00-15:15  
+14:30-14:45  --------
+14:45-15:00  React Router
+15:00-15:15  Presentation by Sahil on Routing in React
 15:15-15:30  
 15:30-15:45  
-15:45-16:00  
-16:00-16:15  
+15:45-16:00  --------
+16:00-16:15  Helped Navdeep on gitlab
 16:15-16:30  
 16:30-16:45  
 16:45-17:00  
 17:00-17:15  
-17:15-17:30  
+17:15-17:30  --------
 17:30-17:45  
 17:45-18:00  
 18:00-18:15  
