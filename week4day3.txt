@@ -37,3 +37,4 @@ Date  : 29/01/2020
 17:45-18:00  
 18:00-18:15  
 18:15-18:30  
+Completed the todo list app
