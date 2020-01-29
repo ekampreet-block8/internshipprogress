@@ -6,7 +6,7 @@ Date  : 29/01/2020
 10:00-10:15  
 10:15-10:30  Standup
 10:30-10:45  ------
-10:45-11:00  Restarted todo list app on ganache using solidity,web3.js etc.
+10:45-11:00  Restarted tut todo list app on ganache using solidity,web3.js etc.
 11:00-11:15  
 11:15-11:30  
 11:30-11:45  
@@ -27,7 +27,7 @@ Date  : 29/01/2020
 15:15-15:30  
 15:30-15:45  
 15:45-16:00  
-16:00-16:15  
+16:00-16:15  -------
 16:15-16:30  
 16:30-16:45  
 16:45-17:00  
