@@ -11,5 +11,5 @@ https://economictimes.indiatimes.com/magazines/panache/oxford-comma-row-talk-of-
 https://www.cbinsights.com/research/industries-disrupted-blockchain/
 https://www.youtube.com/watch?v=FtK65VH5OBg
 https://www.youtube.com/watch?v=p5ceAky52X4
-
 web3.js start
+Presentation on Software Architecture Patterns by Sahil Jhangra
