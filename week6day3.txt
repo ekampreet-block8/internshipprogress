@@ -32,7 +32,7 @@ Date  : 12/02/2020
 16:30-16:45  
 16:45-17:00  
 17:00-17:15  
-17:15-17:30  
+17:15-17:30  https://devcentral.f5.com/s/articles/An-Illustrated-Intro-to-AWS-VPC-Networking
 17:30-17:45  https://www.simform.com/serverless-examples-aws-lambda-use-cases/
 17:45-18:00  
 18:00-18:15  
