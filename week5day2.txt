@@ -1,38 +1,35 @@
-Date  : __/__/2020
+Date  : 04/02/2020
 (Fall-Through)
 
 09:30-09:45  
 09:45-10:00  
 10:00-10:15  
-10:15-10:30  
-10:30-10:45  
-10:45-11:00  
-11:00-11:15  
-11:15-11:30  
-11:30-11:45  
-11:45-12:00  
-12:00-12:15  
-12:15-12:30  
-12:30-12:45  
+10:15-10:30  Standup
+10:30-10:45  Project Idea Research
+             https://medium.com/@karuschain/why-blockchain-makes-sense-for-precious-metals-mining-9a0d29b344ad
+             https://blockheadtechnologies.com/tracking-gold-on-the-blockchain/
+             https://blockheadtechnologies.com/three-types-of-data-every-mining-company-needs-to-be-tracking/
+             https://cointelegraph.com/news/diamonds-are-blockchains-best-friend-how-dlt-helps-tracking-gems-and-prevents-fraud
+             https://www.investopedia.com/news/ibm-planning-use-blockchain-track-diamonds/
+             https://www.gjepc.org/news_detail.php?id=4092    Data Matrix Code
+             https://www.ibm.com/blogs/blockchain/2017/07/blockchain-for-fraud-prevention-industry-use-cases/
+             https://hackernoon.com/6-interesting-blockchain-projects-8c315364ff7f  
+12:30-12:45  Project Discuss
 12:45-13:00  
 13:00-13:15  
 13:15-13:30  
 13:30-13:45  
-13:45-14:00  
-14:00-14:15  
-14:15-14:30  
-14:30-14:45  
-14:45-15:00  
-15:00-15:15  
-15:15-15:30  
-15:30-15:45  
-15:45-16:00  
-16:00-16:15  
+13:45-14:00  https://www.hackster.io/projects/tags/blockchain      https://www.researchgate.net/publication/331101506_BLOCKCHAIN_DECENTRALIZATION_AS_THE_FUTURE_OF_MICROFINANCE_AND_FINANCIAL_INCLUSION
+             https://www.cibil.com/freecibilscore
+             https://www.google.com/search?ei=SkA5XoilJNfA3LUP1JmhUA&q=cibil+score+range+for+loan&oq=cibil+score+range+for+&gs_l=psy-ab.3.0.0l4j0i22i30l6.2542.4300..5461...1.2..0.192.949.0j6......0....1..gws-wiz.......0i71.-eqeZ-H8K5E
+             https://indiamicrofinance.com/11-amazing-blockchain-companies.html
+             http://www.convergences.org/en/blockchain-and-microfinance-hype-or-promise/
+16:00-16:15  Web3.js cont.
 16:15-16:30  
 16:30-16:45  
 16:45-17:00  
 17:00-17:15  
-17:15-17:30  
+17:15-17:30  ------
 17:30-17:45  
 17:45-18:00  
 18:00-18:15  
