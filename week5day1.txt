@@ -1,2 +1,15 @@
 Date  : 03/02/2020
 Standup
+Project Idea Research
+https://www.connectbit.com/blockchain-applications/
+https://www.startus-insights.com/innovators-guide/8-blockchain-startups-disrupting-the-agricultural-industry/
+https://hackernoon.com/how-will-blockchain-agriculture-revolutionize-the-food-supply-from-farm-to-plate-f8fe488d9bae
+https://www.disruptordaily.com/blockchain-in-agriculture-use-case-agunity/
+https://www.agunity.com/how-it-works
+https://economictimes.indiatimes.com/industry/services/retail/commerce-ministry-launches-blockchain-based-coffee-e-marketplace-to-help-farmers-get-fair-prices/articleshow/68619965.cms?from=mdr
+https://economictimes.indiatimes.com/magazines/panache/oxford-comma-row-talk-of-making-small-change-with-brexit/articleshow/73828105.cms?utm_source=ETMyNews&utm_medium=ASMN&utm_campaign=AL1&utm_content=10
+https://www.cbinsights.com/research/industries-disrupted-blockchain/
+https://www.youtube.com/watch?v=FtK65VH5OBg
+https://www.youtube.com/watch?v=p5ceAky52X4
+
+web3.js start
