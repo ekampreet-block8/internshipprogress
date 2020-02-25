@@ -1,1 +1,9 @@
 Standup
+Created Diagram for login api associated with lms project
+Discussion meetings regarding lms flowdiagrams as well as refined them.
+Created presentation for showing to client
+scheduled meetings
+Internal discussion meeting for tasklist
+Client meeting shown refined layouts as well as flows to client and his technical team member
+Completed task list creation.
+Shared tasklist with client.
