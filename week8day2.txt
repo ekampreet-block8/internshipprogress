@@ -7,3 +7,6 @@ Internal discussion meeting for tasklist
 Client meeting shown refined layouts as well as flows to client and his technical team member
 Completed task list creation.
 Shared tasklist with client.
+Read about lambda functions - use cases,shared security model,etc
+Created hello world lambda function.
+Installed aws cli
