@@ -1,1 +1,8 @@
 Standup
+Catch up for lms layouts with qa's
+Presentation preparation for client meeting
+Internal meeting for presentation updates
+Client Meeting for layout finalization
+Project idea Earn Back presentation
+Architecture Discussion Meeting
+High level api design for login functionality in lms
