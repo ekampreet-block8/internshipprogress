@@ -1,6 +1,7 @@
 Standup
 Clarifying some doubts and made some suggestions regarding schema and api.
 Monthly townhall till 11:00-12:30
-
-Today I will be creating the api's assigned to me for lms.
-Also I will look into lodash that we used yesterday.
+Created put api for updating the employee details in lms.
+Had meeting with client regarding updates and catchup.
+Wrote swagger documentation for apis that i created.
+looked into lodash that we used yesterday.
