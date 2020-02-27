@@ -4,3 +4,6 @@ Building a RESTful API with Node.js
 Watched Videos 1-8 and 14
 Created api/employee/id for lms
 Had meeting with client regarding updates
+Tried to understand the schema of lms
+Created a diagram regarding schema.
+Have some doubts.
