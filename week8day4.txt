@@ -1,1 +1,3 @@
-
+I will be clarifying some doubts regarding schema and api.
+Today I will be creating the api's assigned to me for lms.
+Also I will look into lodash that we used yesterday.
