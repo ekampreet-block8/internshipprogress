@@ -1,0 +1,6 @@
+standup
+Created email functionality
+Defined when to trigger email
+Defined parameters in swagger docs for parameterized apis
+Attended node fw session by navneet gulati
+Attended status update meeting with client
