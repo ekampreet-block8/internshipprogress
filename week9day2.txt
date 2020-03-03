@@ -1,0 +1,4 @@
+Standup
+Added no of days in email sent
+Resolve serverless issues
+Resolve email issues
