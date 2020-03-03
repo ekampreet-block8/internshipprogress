@@ -1,0 +1,5 @@
+Standup
+Changed format of date sent in email as per req
+Created send email on employee account creation
+Email functionality not working on serverless.
+Used serverless framework but having some problems "internal server error"
