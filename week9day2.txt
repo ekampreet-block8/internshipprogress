@@ -2,3 +2,11 @@ Standup
 Added no of days in email sent
 Resolve serverless issues
 Resolve email issues
+Searched for mandrill and mailchimp
+created an account on mailchimp
+looked into mailchimp api
+Looked into how to send messages to segment of list in mailchimp
+Fixed errors in serverless.yml file
+Created mongodb atlas account
+Connected mongodb atlas with aws lambda and api gateway
+Tried to fix error of aws ses.
