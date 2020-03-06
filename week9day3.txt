@@ -1,1 +1,2 @@
 Sent request for production access for ses.
+Blocker-unable to send email using nodemailer and ses
