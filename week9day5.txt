@@ -1,1 +1,6 @@
-
+Joined blok8 github (2 factor auth)
+Created issues for LMS
+Read Getting started in loopback docs
+Created loopback project in that controller only.
+Women's Day Celebrations (Call,Cooking,Pool,Skit)
+Took a look at files of LMS.
