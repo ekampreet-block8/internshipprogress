@@ -1,1 +1,5 @@
 Standup
+Created product api in loopback https://www.youtube.com/watch?v=ZK57o1E6s9s
+Meeting with neeraj regarding saturday workshop
+Client meeting lms
+Created put api changed validation
