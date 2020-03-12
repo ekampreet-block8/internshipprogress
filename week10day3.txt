@@ -1,1 +1,5 @@
 Standup
+Fixed problems related to employee put api.
+Created get api for all employee records.
+Created get api for single employee.
+Searched how we can use serverless fw with loopback.
