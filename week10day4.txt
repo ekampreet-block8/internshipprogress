@@ -1,0 +1,3 @@
+Downloaded virtualbox and ubuntu
+Created ubuntu vm in virtualbox
+Learned about docker
