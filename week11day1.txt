@@ -1,1 +1,3 @@
--
+I integrated email with lms
+I had problems with mongodb atlas.So,i installed mongodb on ec2 itself
+Deployed to ec2.
