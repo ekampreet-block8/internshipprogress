@@ -1,0 +1,7 @@
+mongodb atlas is not working on my machine.
+It always connects to localhost
+My code is correct
+
+I deployed the backend with mongodb atlas.
+I made deployments to ec2
+Had client demo meeting
