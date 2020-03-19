@@ -4,3 +4,4 @@ bug triad meeting
 Made multiple deployments to keep backend upto date.
 I fixed bug during deployment cannot run raw queries on admin.
 Found bug in no of days stored in db.It is decreasing it by one due to iso timings. 
+Read about kubernetes pods,master vs worker nodes,minikube,kubernetes dashboard,kubectl,deployment.yaml and service.yaml
