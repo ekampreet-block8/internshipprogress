@@ -1,1 +1,8 @@
-
+Deployed of LMS backend
+Partitioned ssd and dual booted ubuntu alongside windows.
+Installed basic utilities
+Installed vs code
+Installed docker , kubectl and minikube
+Created docker image of basic node js api
+Containerized nginx , redis , busybox ,nodejs api using docker
+Created 3 pods for nginx using minikube.
