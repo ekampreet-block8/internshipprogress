@@ -5,3 +5,5 @@ Edited put api made some validations.
 Created email sent on password change function
 Created email sent on approver change function
 Deployed backend
+I read and understood the swap protocol whitepaper.
+I started with docker and kubernetes udemy course. I Completed first 2 sections and started 3rd section. 
