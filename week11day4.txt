@@ -1,1 +1,12 @@
+Infra standup
+Daily standup
+Status check lms
+lms demo
+Deployed lms backend
+read minikube articles
+Tried setting up minikube bare metal on ubuntu vm in virtalbox but unable to do it.
+Minikube doesn't support snap installed docker.So I uninstalled docker and installed again using apt.
+k8 image download stuck at 300mb
+Virtual box 6.1 having issue with sharing files,clipboard and drag and drop.
 
+Suggestion by abhijeet to install ubuntu
