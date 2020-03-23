@@ -1,1 +1,7 @@
-
+Daily standup
+Infra standup
+lms queries Client meeting
+Edited put api made some validations.
+Created email sent on password change function
+Created email sent on approver change function
+Deployed backend
