@@ -1,1 +1,6 @@
-
+Interns Standup Meetup
+Debugging Diversity Meetup
+Continued udemy course about docker and kubernetes
+LMS status check Meetup
+Infra Standup Meetup
+Deployed LMS Backend
