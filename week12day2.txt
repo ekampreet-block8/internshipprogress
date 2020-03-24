@@ -4,4 +4,4 @@ Continued udemy course about docker and kubernetes
 LMS status check Meetup
 Infra Standup Meetup
 Deployed LMS Backend
-completed 3-5 sections of udemy course.
+completed 3-5 sections of udemy course namely custom images, nodejs api, docker compose
