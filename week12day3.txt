@@ -1,1 +1,6 @@
-
+Daily Standup interns
+LMS Pre Demo Discussion
+Daily Standup Infra
+LMS Internal Demo
+Made deployments of LMS backend
+I Continued docker and kubernetes udemy course i learned about creating a production grade workflow creating dev test and prod environments, docker volumes, bookmarking volumes,using docker-compose to ease deployment.
