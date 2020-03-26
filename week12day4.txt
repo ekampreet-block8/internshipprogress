@@ -1,0 +1,8 @@
+Today I attended gcp fundamental series webinar
+Block8 Monthly townhall
+Daily Standup Interns
+Daily Standup Infra
+Yesterday I learned about ci/cd using travis ci
+I learned how to setup travis ci, automatic build creation.
+I also learned about AWS Elastic Beanstalk, Exposing ports through Dockerfile
+Blocker docker-compose up command was not working.We needed to enter tty:true
