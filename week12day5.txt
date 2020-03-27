@@ -1,0 +1,8 @@
+Daily Standup Interns
+Daily Standup Infra
+I learned about solidity basics, functions etc.
+Then i read the swap protocol whitepaper
+I also watched videos suggested by ravi on order books
+https://youtu.be/_0KVAfy49h0
+https://youtu.be/Kl4-VJ2K8Ik
+Then I cont docker and kubernetes course i learned how to create multi container application and how to use multiple services i.e. section 8 & 9.
