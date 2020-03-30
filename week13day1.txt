@@ -1,0 +1,4 @@
+Daily Standup Interns
+Daily Standup Infra
+Then I cont docker and kubernetes course i learned continuos integration for multiple images and multi container deployments to aws i.e. section 10 &11.
+I also watched web3 js working with smart contracts from dapp university.
