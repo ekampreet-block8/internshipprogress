@@ -1,0 +1,6 @@
+Daily Standup Interns
+Daily Standup Infra
+Shilakha Farewell
+I created apis for forget password functionality
+Created functions for sending otp email and password
+I also cont docker and kubernetes and started the onwards to kubernetes section i.e. section 12.
