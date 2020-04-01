@@ -1,0 +1,8 @@
+Daily Standup Interns
+Daily Standup Infra
+I edited change password, create and edit employee to use encrypted password.
+I changed variables of email functions and some logic to work with the latest code
+Then I deployed the LMS Backend
+Then I also attended the POSTMAN's webinar on "building and testing APIs"
+LMS PHASE 1 COMPLETE
+I also cont docker and kubernetes and did section 13 maintaining sets of containers with deployments.
