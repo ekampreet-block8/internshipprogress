@@ -1,0 +1,3 @@
+Daily Standup Infra meeting
+Introduction to blockchain projects meeting.
+I also cont docker and kubernetes. I did section 14 and 15 i.e. multi container app with kubernetes and handling traffic with ingress controller.
