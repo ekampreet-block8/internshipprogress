@@ -1,0 +1,2 @@
+I read the solidity documentation
+I also read about importance of blockchain testing
