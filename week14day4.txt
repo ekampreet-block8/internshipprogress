@@ -1,0 +1,2 @@
+I read the web3js documentation
+I looked into topics like gas cost, erc tokens, wallets (credential store)
