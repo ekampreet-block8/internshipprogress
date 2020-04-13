@@ -1,0 +1,8 @@
+Status Update Regarding Blockchain projects
+Had discussion with subina and rishab about update and lms
+Also had discussion with deepak varna.
+Had a look at bug sheet.
+researched about node-cron and cron in loopback for auto approval
+also researched about disable tile in react-date-picker for holiday
+calendar
+Had a general overlook at terraform.
